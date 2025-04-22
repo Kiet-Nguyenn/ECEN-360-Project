@@ -1,0 +1,8 @@
+Links
+
+https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023/code?datasetId=4314764
+https://www.pro-football-reference.com/teams/
+https://data.scorenetwork.org/football/nfl-team-statistics.html
+https://www.reddit.com/r/nfl/comments/so36r1/the_success_of_different_statistics_in_predicting/
+https://medium.com/@sophieyryan/crunching-the-numbers-a-data-driven-approach-to-predicting-the-super-bowl-winner-d7bd4f1b3830
+https://analyzr.ai/blog/predicting-the-superbowl-winner-with-machine-learning/
