@@ -1,36 +1,33 @@
 Team,YardsPerCarry(Rank),YardsPerAttempt(Rank),CompletionPercentage(Rank),TurnoverMargin(Rank),3rdDownEfficiency(Rank),4thDownEfficiency(Rank),PointDifferential(Rank),YardsAllowedPerGame(Rank),TotalYardsPerGame(Rank),FieldGoalPercentage(Rank)
-Baltimore Ravens,1,32,28,7,2,11,1,2,19,15
-Buffalo Bills,20,3,6,2,3,8,2,14,2,24
-Cincinnati Bengals,24,27,29,28,30,5,30,26,29,20
-Cleveland Browns,3,24,23,9,16,31,17,21,16,19
-Denver Broncos,13,26,30,31,28,29,29,21,23,30
-Houston Texans,31,4,7,32,29,30,28,30,13,32
-Indianapolis Colts,11,11,11,5,12,7,9,8,10,8
-Jacksonville Jaguars,28,21,21,30,26,32,32,31,28,31
-Kansas City Chiefs,16,1,3,6,5,10,4,16,1,6
-Las Vegas Raiders,14,7,10,17,8,9,18,25,8,17
-Los Angeles Chargers,18,6,12,25,9,6,19,23,9,18
-Miami Dolphins,22,20,20,1,15,1,10,6,22,3
-New England Patriots,4,30,31,27,21,28,22,7,27,29
-New York Jets,23,31,32,29,32,27,31,29,32,28
-Pittsburgh Steelers,32,15,5,4,1,15,3,3,24,1
-Tennessee Titans,2,23,18,3,13,12,5,24,3,11
-Cleveland Browns,3,24,23,9,16,31,17,21,16,19
-Chicago Bears,14,27,27,28,28,29,27,24,24,27
-Seattle Seahawks,5,13,10,14,17,19,12,12,20,7
-Tennessee Titans,2,23,18,3,13,12,5,24,3,11
-Indianapolis Colts,11,11,11,5,12,7,9,8,10,8
-Las Vegas Raiders,14,7,10,17,8,9,18,25,8,17
-Los Angeles Rams,25,11,5,6,8,10,3,17,9,9
-Carolina Panthers,21,28,29,25,29,27,25,2,30,26
-New Orleans Saints,23,20,12,7,15,13,11,4,28,3
-Cleveland Browns,2,12,19,10,13,16,15,7,18,6
-Chicago Bears,14,27,27,28,28,29,27,24,24,27
-Seattle Seahawks,5,13,10,14,17,19,12,12,20,7
-Tennessee Titans,4,18,16,11,12,17,9,21,17,22
-Indianapolis Colts,8,19,18,13,16,18,19,6,16,11
-Las Vegas Raiders,15,17,21,15,19,22,20,28,11,17
-New York Giants,27,29,26,26,30,26,28,19,27,21
-Dallas Cowboys,11,21,22,17,21,23,21,14,1,13
-New England Patriots,13,25,23,21,24,24,23,8,15,4
-Jacksonville Jaguars,10,26,24,29,26,25,30,16,28,8
+Kansas City Chiefs,15,1,1,14,1,1,2,16,1,1
+Green Bay Packers,8,2,2,5,2,2,1,13,5,2
+Buffalo Bills,20,3,3,3,3,3,3,14,3,3
+Tennessee Titans,3,18,18,10,18,18,6,24,18,4
+New Orleans Saints,6,5,5,1,5,5,5,4,5,5
+Tampa Bay Buccaneers,28,7,7,4,7,7,7,6,7,6
+Baltimore Ravens,1,32,32,2,32,32,4,2,32,7
+Pittsburgh Steelers,31,24,24,6,24,24,8,3,24,8
+Seattle Seahawks,5,4,4,22,4,4,9,22,4,9
+Los Angeles Rams,12,11,11,7,11,11,10,1,11,10
+Indianapolis Colts,11,12,12,8,12,12,11,8,12,11
+Cleveland Browns,2,19,19,9,19,19,12,17,19,12
+Miami Dolphins,25,20,20,11,20,20,13,20,20,13
+Chicago Bears,29,21,21,12,21,21,14,11,21,14
+Arizona Cardinals,4,6,6,23,6,6,15,12,6,15
+Las Vegas Raiders,7,8,8,24,8,8,16,25,8,16
+Minnesota Vikings,9,9,9,13,9,9,17,27,9,17
+San Francisco 49ers,10,10,10,15,10,10,18,5,10,18
+Los Angeles Chargers,17,13,13,16,13,13,19,18,13,19
+New England Patriots,14,14,14,17,14,14,20,15,14,20
+Dallas Cowboys,16,15,15,18,15,15,21,23,15,21
+New York Giants,18,16,16,19,16,16,22,19,16,22
+Detroit Lions,19,17,17,20,17,17,23,21,17,23
+Philadelphia Eagles,21,22,22,21,22,22,24,9,22,24
+Carolina Panthers,13,23,23,25,23,23,25,28,23,25
+Atlanta Falcons,22,25,25,26,25,25,26,29,25,26
+Cincinnati Bengals,23,26,26,27,26,26,27,26,26,27
+Houston Texans,24,27,27,28,27,27,28,30,27,28
+Denver Broncos,26,28,28,29,28,28,29,7,28,29
+New York Jets,27,29,29,30,29,29,30,31,29,30
+Jacksonville Jaguars,30,30,30,31,30,30,31,32,30,31
+Washington Football Team,32,31,31,32,31,31,32,10,31,32

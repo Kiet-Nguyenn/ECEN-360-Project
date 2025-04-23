@@ -1,0 +1,33 @@
+Team,YardsPerCarry(Rank),YardsPerAttempt(Rank),CompletionPercentage(Rank),TurnoverMargin(Rank),3rdDownEfficiency(Rank),4thDownEfficiency(Rank),PointDifferential(Rank),YardsAllowedPerGame(Rank),TotalYardsPerGame(Rank),FieldGoalPercentage(Rank)
+New England Patriots,7,11,11,1,11,11,1,9,11,1
+Pittsburgh Steelers,1,28,28,2,28,28,2,1,28,2
+Philadelphia Eagles,13,5,5,3,5,5,3,10,5,3
+Indianapolis Colts,24,1,1,4,1,1,4,29,1,4
+San Diego Chargers,2,12,12,5,12,12,5,18,12,5
+Atlanta Falcons,3,30,30,6,30,30,6,14,30,6
+New York Jets,8,14,14,7,14,14,7,7,14,7
+Denver Broncos,4,18,18,8,18,18,8,4,18,8
+Baltimore Ravens,5,31,31,9,31,31,9,6,31,9
+Minnesota Vikings,9,2,2,10,2,2,10,28,2,10
+Green Bay Packers,14,3,3,11,3,3,11,25,3,11
+Seattle Seahawks,6,4,4,12,4,4,12,22,4,12
+Buffalo Bills,10,6,6,13,6,6,13,2,6,13
+Jacksonville Jaguars,11,7,7,14,7,7,14,3,7,14
+Houston Texans,12,8,8,15,8,8,15,27,8,15
+Cincinnati Bengals,15,9,9,16,9,9,16,24,9,16
+Kansas City Chiefs,16,10,10,17,10,10,17,30,10,17
+St. Louis Rams,17,13,13,18,13,13,18,31,13,18
+New Orleans Saints,18,15,15,19,15,15,19,20,15,19
+Carolina Panthers,19,16,16,20,16,16,20,5,16,20
+Dallas Cowboys,20,17,17,21,17,17,21,8,17,21
+Detroit Lions,21,19,19,22,19,19,22,12,19,22
+Tennessee Titans,22,20,20,23,20,20,23,17,20,23
+Chicago Bears,23,21,21,24,21,21,24,13,21,24
+New York Giants,25,22,22,25,22,22,25,21,22,25
+Tampa Bay Buccaneers,26,23,23,26,23,23,26,11,23,26
+Washington Redskins,27,24,24,27,24,24,27,16,24,27
+Arizona Cardinals,28,25,25,28,25,25,28,26,25,28
+Oakland Raiders,29,26,26,29,26,26,29,19,26,29
+Miami Dolphins,30,27,27,30,27,27,30,15,27,30
+Cleveland Browns,31,29,29,31,29,29,31,23,29,31
+San Francisco 49ers,32,32,32,32,32,32,32,32,32,32
